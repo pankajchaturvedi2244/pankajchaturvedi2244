@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankajchaturvedi2244
-- 👀 I’m interested in React related projects
+  
 - 🌱 I’m currently working as full stack developer
 - 💞️ I’m looking to collaborate on React and React-Native
 
